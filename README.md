@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naman30903
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ language
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
