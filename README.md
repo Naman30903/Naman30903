@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter , Dart**
 
-- 📫 How to reach me **namanjain9125@fmail.com**
+- 📫 How to reach me **namanjain9125@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e2olC3RVfmspE9hZ-TaeImKBySVbAM_O/view?usp=sharing](https://drive.google.com/file/d/1e2olC3RVfmspE9hZ-TaeImKBySVbAM_O/view?usp=sharing)
 
