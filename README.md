@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **RESQLINK**
 
-- 🌱 I’m currently learning **Golang, Docker , Kubernetes**
+- 🌱 I’m currently learning **Golang, Docker , Kubernetes, AWS**
 
-- 💬 Ask me about **Flutter , Dart**
+- 💬 Ask me about **Flutter , Dart and anything you would like**
 
 - 📫 How to reach me **namanjain9125@gmail.com**
 
