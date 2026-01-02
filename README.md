@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **RESQLINK**
+- 🔭 I’m currently working on **Parsec**
 
 - 🌱 I’m currently learning **Golang, Docker , Kubernetes, AWS**
 
