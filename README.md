@@ -2,6 +2,12 @@
 
 <br/>
 
+## terminal
+
+<img src="assets/terminal.svg" width="100%" alt="Fake terminal session: whoami, skills, projects, contact" />
+
+<br/>
+
 ## selected work
 
 | | Project | Stack |
